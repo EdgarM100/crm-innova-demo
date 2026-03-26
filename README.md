@@ -62,7 +62,15 @@ CRM Innova centraliza toda la operación en un solo sistema:
 
 ## 📸 Vista del sistema
 
-(Aquí agrega screenshots)
+![Dashboard](screenshots/Dashboard.png)
+
+![Pipeline](screenshots/Pipeline.png)
+
+![Clientes](screenshots/Clientes.png)
+
+![Clientes](screenshots/Cotizador.png)
+
+![Clientes](screenshots/Historial.png)
 
 ---
 
